@@ -88,7 +88,7 @@
         <read_access>true</read_access>
         <source_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</source_scope>
         <sys_class_name>sys_scope_table_access</sys_class_name>
-        <sys_created_by>Richard.Szolar.admin</sys_created_by>
+        <sys_created_by>Richard.Szolar.admin_SHARE</sys_created_by>
         <sys_created_on>2016-12-15 13:57:04</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>eb6ee8764f1ba600908b81c18110c740</sys_id>
@@ -99,7 +99,7 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
         <sys_update_name>sys_scope_table_access_eb6ee8764f1ba600908b81c18110c740</sys_update_name>
-        <sys_updated_by>Richard.Szolar.admin</sys_updated_by>
+        <sys_updated_by>Richard.Szolar.admin_SHARE</sys_updated_by>
         <sys_updated_on>2016-12-15 13:57:04</sys_updated_on>
         <table_name>sys_script</table_name>
         <target_scope display_value="Global">global</target_scope>

@@ -10,7 +10,7 @@
             <name>x_snc_siam_light_external_id</name>
             <plural>Targets</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2016-04-23 20:51:37</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_id>63218218db435600b315f27eaf961992</sys_id>
@@ -21,7 +21,7 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
             <sys_update_name>sys_documentation_x_snc_siam_light_external_id_target_en</sys_update_name>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2016-04-23 20:51:37</sys_updated_on>
             <url/>
             <url_target/>

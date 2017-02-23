@@ -19,7 +19,7 @@
         <read_access>true</read_access>
         <super_class/>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
+        <sys_created_by>admin_SHARE</sys_created_by>
         <sys_created_on>2016-02-29 19:36:29</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>542ae3ba37355200b2e8021a54990e85</sys_id>
@@ -30,8 +30,9 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
         <sys_update_name>sys_db_object_542ae3ba37355200b2e8021a54990e85</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_by>admin_SHARE</sys_updated_by>
         <sys_updated_on>2016-02-29 19:36:29</sys_updated_on>
+        <u_order_guide/>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>

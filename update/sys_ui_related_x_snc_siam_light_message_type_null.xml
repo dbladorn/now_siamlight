@@ -8,11 +8,11 @@
             <position>0</position>
             <related_list>x_snc_siam_light_field_map.message_type</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2016-10-05 13:27:57</sys_created_on>
             <sys_id>c5f94a5dbf566200d6cabdbaa361d038</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2016-10-05 13:27:57</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
@@ -22,11 +22,11 @@
             <position>1</position>
             <related_list>x_snc_siam_light_structure_map.message_type</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2016-10-05 13:27:57</sys_created_on>
             <sys_id>89f94a5dbf566200d6cabdbaa361d038</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2016-10-05 13:27:57</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
@@ -36,11 +36,11 @@
             <position>2</position>
             <related_list>x_snc_siam_light_outbound_trigger.message_type</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2016-10-05 13:27:57</sys_created_on>
             <sys_id>4df94a5dbf566200d6cabdbaa361d038</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2016-10-05 13:27:57</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
@@ -51,11 +51,10 @@
             <position/>
             <related_list/>
             <sys_class_name>sys_ui_related_list</sys_class_name>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2016-10-05 13:27:57</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>18c62c55295382002e68eb689ad1b2aa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Message type - Default view</sys_name>
@@ -64,7 +63,7 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
             <sys_update_name>sys_ui_related_x_snc_siam_light_message_type_null</sys_update_name>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2016-10-05 13:27:57</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>

@@ -4,13 +4,13 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>external_fieldname_run_script</element>
             <position>0</position>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2017-02-14 14:58:50</sys_created_on>
             <sys_id>5b9096b74fb07640908b81c18110c710</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="External Field" display_value="External Field" name="x_snc_siam_light_field_map" sys_domain="global" view="Default view">1c4e9817bf23a600d6cabdbaa361d034</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-14 14:58:50</sys_updated_on>
             <sys_user/>
             <type/>
@@ -18,13 +18,13 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>external_fieldname</element>
             <position>1</position>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2017-02-14 14:58:50</sys_created_on>
             <sys_id>db9096b74fb07640908b81c18110c710</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="External Field" display_value="External Field" name="x_snc_siam_light_field_map" sys_domain="global" view="Default view">1c4e9817bf23a600d6cabdbaa361d034</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-14 14:58:50</sys_updated_on>
             <sys_user/>
             <type/>
@@ -32,13 +32,13 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>external_fieldname_transform_script</element>
             <position>2</position>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2017-02-14 14:58:50</sys_created_on>
             <sys_id>5f9096b74fb07640908b81c18110c710</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="External Field" display_value="External Field" name="x_snc_siam_light_field_map" sys_domain="global" view="Default view">1c4e9817bf23a600d6cabdbaa361d034</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-14 14:58:50</sys_updated_on>
             <sys_user/>
             <type/>
@@ -49,11 +49,10 @@
             <name>x_snc_siam_light_field_map</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
-            <sys_created_by>Richard.Szolar.admin</sys_created_by>
+            <sys_created_by>Richard.Szolar.admin_SHARE</sys_created_by>
             <sys_created_on>2016-12-12 14:03:44</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>1c4e9817bf23a600d6cabdbaa361d034</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>External Field</sys_name>
@@ -63,7 +62,7 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
             <sys_update_name>sys_ui_section_1c4e9817bf23a600d6cabdbaa361d034</sys_update_name>
-            <sys_updated_by>Richard.Szolar.admin</sys_updated_by>
+            <sys_updated_by>Richard.Szolar.admin_SHARE</sys_updated_by>
             <sys_updated_on>2016-12-12 14:03:44</sys_updated_on>
             <sys_user/>
             <title>false</title>

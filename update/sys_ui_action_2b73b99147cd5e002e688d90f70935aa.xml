@@ -66,11 +66,10 @@ action.setRedirectURL(current);]]></script>
         <show_query>false</show_query>
         <show_update>true</show_update>
         <sys_class_name>sys_ui_action</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
+        <sys_created_by>admin_SHARE</sys_created_by>
         <sys_created_on>2016-01-18 12:25:53</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>2b73b99147cd5e002e688d90f70935aa</sys_id>
         <sys_mod_count>23</sys_mod_count>
         <sys_name>Automap Variable to Fields</sys_name>
@@ -80,7 +79,7 @@ action.setRedirectURL(current);]]></script>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
         <sys_update_name>sys_ui_action_2b73b99147cd5e002e688d90f70935aa</sys_update_name>
-        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
         <sys_updated_on>2016-04-23 19:44:26</sys_updated_on>
         <table>x_snc_siam_light_message_type</table>
         <ui11_compatible>true</ui11_compatible>

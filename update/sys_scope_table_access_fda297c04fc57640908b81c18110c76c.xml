@@ -50,7 +50,7 @@
         <read_access>true</read_access>
         <source_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</source_scope>
         <sys_class_name>sys_scope_table_access</sys_class_name>
-        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_by>daniel.draes_SHARE</sys_created_by>
         <sys_created_on>2017-02-15 14:25:51</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>fda297c04fc57640908b81c18110c76c</sys_id>
@@ -61,7 +61,7 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
         <sys_update_name>sys_scope_table_access_fda297c04fc57640908b81c18110c76c</sys_update_name>
-        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
         <sys_updated_on>2017-02-15 14:25:51</sys_updated_on>
         <table_name>change_request</table_name>
         <target_scope display_value="Global">global</target_scope>

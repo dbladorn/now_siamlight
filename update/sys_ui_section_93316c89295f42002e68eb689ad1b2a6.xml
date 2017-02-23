@@ -4,13 +4,13 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>target</element>
             <position>0</position>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2017-02-15 15:26:36</sys_created_on>
             <sys_id>3b80a3c44fc57640908b81c18110c73f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_siam_light_queue" sys_domain="global" view="Default view">93316c89295f42002e68eb689ad1b2a6</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-15 15:26:36</sys_updated_on>
             <sys_user/>
             <type/>
@@ -18,13 +18,13 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>message_type</element>
             <position>1</position>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2017-02-15 15:26:36</sys_created_on>
             <sys_id>bb80a3c44fc57640908b81c18110c73f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_siam_light_queue" sys_domain="global" view="Default view">93316c89295f42002e68eb689ad1b2a6</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-15 15:26:36</sys_updated_on>
             <sys_user/>
             <type/>
@@ -32,13 +32,13 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>action</element>
             <position>2</position>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2017-02-15 15:26:36</sys_created_on>
             <sys_id>3f80a3c44fc57640908b81c18110c73f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_siam_light_queue" sys_domain="global" view="Default view">93316c89295f42002e68eb689ad1b2a6</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-15 15:26:36</sys_updated_on>
             <sys_user/>
             <type/>
@@ -46,13 +46,13 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>3</position>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2017-02-15 15:26:36</sys_created_on>
             <sys_id>bf80a3c44fc57640908b81c18110c73f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_siam_light_queue" sys_domain="global" view="Default view">93316c89295f42002e68eb689ad1b2a6</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-15 15:26:36</sys_updated_on>
             <sys_user/>
             <type>.split</type>
@@ -60,13 +60,13 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
             <position>4</position>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2017-02-15 15:26:36</sys_created_on>
             <sys_id>3380a3c44fc57640908b81c18110c740</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_siam_light_queue" sys_domain="global" view="Default view">93316c89295f42002e68eb689ad1b2a6</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-15 15:26:36</sys_updated_on>
             <sys_user/>
             <type/>
@@ -74,13 +74,13 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>retry_count</element>
             <position>5</position>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2017-02-15 15:26:36</sys_created_on>
             <sys_id>b380a3c44fc57640908b81c18110c740</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_siam_light_queue" sys_domain="global" view="Default view">93316c89295f42002e68eb689ad1b2a6</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-15 15:26:36</sys_updated_on>
             <sys_user/>
             <type/>
@@ -88,13 +88,13 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>direction</element>
             <position>6</position>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2017-02-15 15:26:36</sys_created_on>
             <sys_id>3780a3c44fc57640908b81c18110c740</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_siam_light_queue" sys_domain="global" view="Default view">93316c89295f42002e68eb689ad1b2a6</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-15 15:26:36</sys_updated_on>
             <sys_user/>
             <type/>
@@ -102,13 +102,13 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>reference_record</element>
             <position>7</position>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2017-02-15 15:26:36</sys_created_on>
             <sys_id>b780a3c44fc57640908b81c18110c740</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_siam_light_queue" sys_domain="global" view="Default view">93316c89295f42002e68eb689ad1b2a6</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-15 15:26:36</sys_updated_on>
             <sys_user/>
             <type/>
@@ -116,13 +116,13 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
             <position>8</position>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2017-02-15 15:26:36</sys_created_on>
             <sys_id>3b80a3c44fc57640908b81c18110c740</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_siam_light_queue" sys_domain="global" view="Default view">93316c89295f42002e68eb689ad1b2a6</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-15 15:26:36</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
@@ -130,13 +130,13 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>payload</element>
             <position>9</position>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2017-02-15 15:26:36</sys_created_on>
             <sys_id>bb80a3c44fc57640908b81c18110c740</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_siam_light_queue" sys_domain="global" view="Default view">93316c89295f42002e68eb689ad1b2a6</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-15 15:26:36</sys_updated_on>
             <sys_user/>
             <type/>
@@ -144,13 +144,13 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>response_to</element>
             <position>10</position>
-            <sys_created_by>daniel.draes</sys_created_by>
+            <sys_created_by>daniel.draes_SHARE</sys_created_by>
             <sys_created_on>2017-02-15 15:26:36</sys_created_on>
             <sys_id>3f80a3c44fc57640908b81c18110c740</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_siam_light_queue" sys_domain="global" view="Default view">93316c89295f42002e68eb689ad1b2a6</sys_ui_section>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-15 15:26:36</sys_updated_on>
             <sys_user/>
             <type/>
@@ -161,11 +161,10 @@
             <name>x_snc_siam_light_queue</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
+            <sys_created_by>admin_SHARE</sys_created_by>
             <sys_created_on>2015-10-22 11:52:26</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>93316c89295f42002e68eb689ad1b2a6</sys_id>
             <sys_mod_count>18</sys_mod_count>
             <sys_name>x_snc_siam_light_queue</sys_name>
@@ -175,7 +174,7 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
             <sys_update_name>sys_ui_section_93316c89295f42002e68eb689ad1b2a6</sys_update_name>
-            <sys_updated_by>daniel.draes</sys_updated_by>
+            <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
             <sys_updated_on>2017-02-23 09:17:35</sys_updated_on>
             <sys_user/>
             <title>true</title>

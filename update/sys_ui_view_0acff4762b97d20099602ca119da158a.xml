@@ -6,10 +6,10 @@
         <name>RPT4c497ac4472102009eaff6df1d9a715b</name>
         <roles/>
         <sys_class_name>sys_ui_view</sys_class_name>
-        <sys_created_by>daniel.draes@snc</sys_created_by>
+        <sys_created_by>daniel.draes@snc_SHARE</sys_created_by>
         <sys_created_on>2015-12-17 15:27:00</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>dc6bed07471492002e688d90f7093561</sys_id>
+        <sys_id>0acff4762b97d20099602ca119da158a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name/>
         <sys_package/>
@@ -17,7 +17,7 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>daniel.draes@snc</sys_updated_by>
+        <sys_updated_by>daniel.draes@snc_SHARE</sys_updated_by>
         <sys_updated_on>2015-12-17 15:27:00</sys_updated_on>
         <title>Rpt4c497ac4472102009eaff6df1d9a715b</title>
         <user/>

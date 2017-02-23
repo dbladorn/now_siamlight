@@ -5,11 +5,15 @@
         <access>package_private</access>
         <action_delete>false</action_delete>
         <action_insert>true</action_insert>
+        <action_label/>
+        <action_name/>
         <action_query>false</action_query>
+        <action_run_at/>
         <action_update>true</action_update>
         <active>true</active>
         <add_message>false</add_message>
         <advanced>true</advanced>
+        <application/>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
         <collection>core_company</collection>
@@ -20,8 +24,10 @@
         <is_rest>false</is_rest>
         <message/>
         <name>Process Outbound Triggers</name>
+        <onclick/>
         <order>100</order>
         <priority>100</priority>
+        <read_access_action>false</read_access_action>
         <rest_method/>
         <rest_method_text/>
         <rest_service/>
@@ -35,11 +41,10 @@
 	
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
-        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_by>daniel.draes_SHARE</sys_created_by>
         <sys_created_on>2016-12-20 14:19:04</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>d55ee13ddb332600b315f27eaf961966</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Process Outbound Triggers</sys_name>
@@ -49,10 +54,10 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
         <sys_update_name>sys_script_d55ee13ddb332600b315f27eaf961966</sys_update_name>
-        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
         <sys_updated_on>2017-01-16 10:19:00</sys_updated_on>
         <template/>
+        <u_notified>false</u_notified>
         <when>after</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=d55ee13ddb332600b315f27eaf961966"/>
 </record_update>

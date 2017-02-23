@@ -41,6 +41,7 @@
         <funnel_neck_percent>30</funnel_neck_percent>
         <gauge_autoscale>true</gauge_autoscale>
         <group/>
+        <groups/>
         <interval>dayofweek</interval>
         <is_published>false</is_published>
         <is_scheduled>false</is_scheduled>
@@ -82,7 +83,7 @@
         <show_zero>false</show_zero>
         <sumfield>sys_mod_count</sumfield>
         <sys_class_name>sys_report</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
+        <sys_created_by>admin_SHARE</sys_created_by>
         <sys_created_on>2015-11-10 12:31:39</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>cf606e4b392302002e68598e680f803f</sys_id>
@@ -93,7 +94,7 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
         <sys_update_name>sys_report_cf606e4b392302002e68598e680f803f</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_by>system_SHARE</sys_updated_by>
         <sys_updated_on>2016-05-16 16:41:20</sys_updated_on>
         <table>x_snc_siam_light_queue</table>
         <title>Todays SIAM entries by direction</title>
@@ -106,6 +107,7 @@
         <use_color_heatmap>false</use_color_heatmap>
         <use_color_palette>true</use_color_palette>
         <user>a2e652034fb11200908b81c18110c792</user>
+        <users/>
         <x_axis_display_grid>false</x_axis_display_grid>
         <x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color>
         <x_axis_grid_dotted>false</x_axis_grid_dotted>

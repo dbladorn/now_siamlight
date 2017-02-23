@@ -7,7 +7,7 @@
         <queue/>
         <suffix>outbound.triggered</suffix>
         <sys_class_name>sysevent_register</sys_class_name>
-        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_by>daniel.draes_SHARE</sys_created_by>
         <sys_created_on>2016-11-28 17:54:08</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>cd9cc93e4f1ba600908b81c18110c7fb</sys_id>
@@ -18,7 +18,7 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
         <sys_update_name>sysevent_register_cd9cc93e4f1ba600908b81c18110c7fb</sys_update_name>
-        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
         <sys_updated_on>2016-11-28 17:54:29</sys_updated_on>
         <table/>
     </sysevent_register>

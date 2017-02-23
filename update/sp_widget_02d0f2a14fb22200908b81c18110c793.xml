@@ -100,7 +100,7 @@ while(personalTaskGR.next()) {
 })();]]></script>
         <servicenow>false</servicenow>
         <sys_class_name>sp_widget</sys_class_name>
-        <sys_created_by>daniel.draes</sys_created_by>
+        <sys_created_by>daniel.draes_SHARE</sys_created_by>
         <sys_created_on>2016-10-31 07:27:44</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>02d0f2a14fb22200908b81c18110c793</sys_id>
@@ -111,7 +111,7 @@ while(personalTaskGR.next()) {
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="SIAM Light">add64881295f42002e68eb689ad1b2ab</sys_scope>
         <sys_update_name>sp_widget_02d0f2a14fb22200908b81c18110c793</sys_update_name>
-        <sys_updated_by>daniel.draes</sys_updated_by>
+        <sys_updated_by>daniel.draes_SHARE</sys_updated_by>
         <sys_updated_on>2016-10-31 08:46:15</sys_updated_on>
         <template><![CDATA[<div>
 <div class="panel panel-default b">
